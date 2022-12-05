@@ -1,0 +1,23 @@
+#footer {
+    background:black;
+
+}
+
+#page-header {
+    /* 背景图地址 */
+    background:url(/img/780.jpg);
+    /* 平铺 */
+    background-repeat: no-repeat;
+    /* 背景图大小 */
+    background-size: cover;
+}
+#avatar-img{
+    background:beige;
+
+}
+
+
+
+
+
+
